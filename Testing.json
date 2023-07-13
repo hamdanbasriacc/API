@@ -1,8 +1,9 @@
 {
     "name" : "Hamdan",
     "age" : 31,
+    "videos" : "https://raw.githubusercontent.com/hamdanbasriacc/APITest/main/CharacterRecordTest.mp4",
     "sprites": {
-    "back_default": "https://raw.githubusercontent.com/hamdanbasriacc/APITest/SangRimbaEnvironment2.png",
+    "back_default": "https://raw.githubusercontent.com/hamdanbasriacc/APITest/main/SangRimbaEnvironment2.png",
     "front_default": "https://raw.githubusercontent.com/hamdanbasriacc/APITest/main/HamdanRPMProfilePicture.png"
     },
     "abilities": [
