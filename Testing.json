@@ -2,8 +2,8 @@
     "name" : "Hamdan",
     "age" : 31,
     "sprites": {
-    "back_default": "https://github.com/hamdanbasriacc/APITest/blob/main/HamdanRPMProfilePicture.png",
-    "front_default": "https://github.com/hamdanbasriacc/APITest/blob/main/SangRimbaEnvironment2.png",
+    "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/132.png",
+    "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png"
     },
     "abilities": [
       {
