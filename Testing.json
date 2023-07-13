@@ -1,4 +1,10 @@
 {
+    "name" : "Hamdan",
+    "age" : 31,
+    "sprites": {
+    "back_default": "https://github.com/hamdanbasriacc/APITest/blob/main/HamdanRPMProfilePicture.png",
+    "front_default": "https://github.com/hamdanbasriacc/APITest/blob/main/SangRimbaEnvironment2.png",
+    },
     "abilities": [
       {
         "ability": {
